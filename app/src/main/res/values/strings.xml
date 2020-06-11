@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">CustomView</string>
+    <string name="obstinate_not_download">稍后更新</string>
+    <string name="cave_download">立即更新</string>
+    <string name="xiaohua_update_hint">刷哪儿正在更新，服务提升，请稍后...</string>
+    <string name="xiaohua_upload_fail">刷哪儿APK下载失败...</string>
+    <string name="xiaohua_upload_finish">下载完成</string>
+    <string name="later_besides">稍后再说</string>
+    <string name="re_download">重新下载</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+    <string name="hint">提示</string>
+
+    <string name="root_tip_dangerous">运行环境不安全</string>
+    <string name="wifi_tip_dangerous">wifi连接不安全</string>
+    <string name="run_background">刷哪儿进入后台运行</string>
+
+
+    <!--小视频-->
+    <string name="aliyun_no_free_memory">剩余磁盘空间不足</string>
+
+
+    <string name="aliyun_online_music">在线音乐</string>
+    <string name="aliyun_local_music">本地音乐</string>
+    <string name="aliyun_rate_very_slow">极慢</string>
+    <string name="aliyun_rate_slow">慢</string>
+    <string name="aliyun_rate_standard">标准</string>
+    <string name="aliyun_rate_fast">快</string>
+    <string name="aliyun_rate_very_fast">极快</string>
+    <string name="aliyun_delete">回删</string>
+    <string name="giveup">放弃</string>
+    <string name="giveup_current_video">是否放弃当前视频？</string>
+    <string name="delete_last_video">是否删除上一段视频？</string>
+    <string name="press_shoot">按住拍</string>
+    <string name="beauty">美颜</string>
+    <string name="filter">滤镜</string>
+    <string name="paster">贴纸</string>
+    <string name="music">音乐</string>
+    <string name="count_down">倒计时</string>
+    <string name="music_downloading">音乐下载中</string>
+    <string name="record_error">录制失败，错误码：</string>
+    <string name="shoot_finish">拍满了，请删除一段视频后再拍</string>
+    <string name="open_camare_error">摄像头打开失败，请检查权限</string>
+    <string name="open_mic_error">麦克风打开失败，请检查权限</string>
+
+
+    <string name="music_effect_manager">音乐</string>
+    <string name="music_origin">原音</string>
+    <string name="my_music">我的音乐</string>
+    <string name="local_music">本地音乐</string>
+    <string name="delete_effect_manager">删除</string>
+    <string name="use_effect_edit">使用</string>
+    <string name="more">更多</string>
+
+    <string name="publish">发布</string>
+    <string name="select_cover">选择封面</string>
+    <string name="composing">正在合成中</string>
+    <string name="cancel_generate">取消视频生成</string>
+    <string name="video_loading">视频加载中</string>
+    <string name="compose_success">合成成功</string>
+    <string name="compose_failed">合成失败</string>
+    <string name="upload_success">上传成功</string>
+    <string name="upload_failed">上传失败</string>
+    <string name="input_video_desc">给视频添加描述可以获得更多赞哦~</string>
+    <string name="edit_cover">选择封面</string>
+    <string name="publish_savelocal">保存到相册</string>
+    <string name="publish_savedraft">保存草稿</string>
+    <string name="publish_publish">发布视频</string>
+    <string name="choose_challenge">选择挑战</string>
+    <string name="guide_recorder_one">长按拍摄我的第一个作品</string>
+    <string name="guide_recorder_filter">海量创意滤镜，想变就变</string>
+    <string name="challenge">我要挑战</string>
+    <string name="where_are_you">你在哪儿?</string>
+    <string name="privacy_permission">隐私权限</string>
+    <string name="privacy_publish">公开</string>
+    <string name="privacy">私密</string>
+    <string name="search_address">搜索附近位置</string>
+    <string name="search_error">没匹配结果,再搜索试试吧</string>
+    <string name="position_loading">位置加载中</string>
+    <string name="dialog_privacy_publish">公开 (所有人可见)</string>
+    <string name="dialog_privacy_privacy">私密 (仅自己可见)</string>
+    <string name="video_publish">视频发布中</string>
+    <string name="save_draft_success">已保存至个人主页草稿箱,快去发布吧~</string>
+    <string name="saved">已保存</string>
+    <string name="publish_most_desc">最多输入50个字</string>
+
+
+    <string name="editor_exception">状态异常，结束编辑</string>
+    <string name="crop_video_minduration_tip">视频小于5秒,请重新裁剪</string>
+
+
+    <string name="sdcard_not_ready">SDCARD 没有准备好</string>
+    <string name="video_duration">%1$02d:%2$02d:%3$02d</string>
+    <string name="next_camera_roll_import">下一步</string>
+    <string name="message_max_duration_import">视频总时长不超过5分钟，请裁剪后继续!</string>
+    <string name="message_min_duration_import">视频总时长不低于5秒，请继续选择</string>
+    <string name="message_max_count_import">最多选择5个视频合成，请重新选择</string>
+    <string name="total_duration_label_import">总时长</string>
+
+
+    <string name="crop_description">拖动选择你要裁剪的片段</string>
+
+
+    <string name="recorder_cancel">撤消</string>
+    <string name="adapter_dialog_music_start_shoot">使用音乐并开拍</string>
+    <string name="title_qrscan">扫一扫</string>
+    <string name="photo_album">相册</string>
+
+    <string name="share_weixin">微信</string>
+    <string name="share_weixinfriends">朋友圈</string>
+    <string name="share_QQ">QQ</string>
+    <string name="share_QQZone">QQ空间</string>
+    <string name="share_sina">新浪微博</string>
+    <string name="share_copy">复制链接</string>
+    <string name="share_report">举报</string>
+    <string name="share_saveto_photo">保存本地</string>
+    <string name="share_private">私密</string>
+    <string name="share_delete">删除</string>
+    <string name="share_nointerest">不感兴趣</string>
+    <string name="count_down_shoot">倒计时拍摄</string>
+    <string name="dialog_beat">卡节拍</string>
+    <string name="no_more_data">没有更多数据了</string>
+
+    <string name="photo_preview_maxduration">视频不能超过%1$s秒，请重新选择</string>
+    <string name="photo_crop_maxduration">视频大于%1$s秒,请重新裁剪</string>
+    <string name="copy">复制</string>
+    <string name="delete_success">删除成功</string>
+
+</resources>

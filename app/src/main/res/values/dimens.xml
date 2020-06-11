@@ -1,0 +1,67 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="dimen_0.5">0.5dp</dimen>
+    <dimen name="dimen_5">5dp</dimen>
+    <dimen name="dimen_3">3dp</dimen>
+    <dimen name="dimen_6">6dp</dimen>
+    <dimen name="dimen_7">7dp</dimen>
+    <dimen name="dimen_8">8dp</dimen>
+    <dimen name="dimen_10">10dp</dimen>
+    <dimen name="dimen_11">11dp</dimen>
+    <dimen name="dimen_12">12dp</dimen>
+    <dimen name="dimen_13">13dp</dimen>
+    <dimen name="dimen_14">14dp</dimen>
+    <dimen name="dimen_15">15dp</dimen>
+    <dimen name="dimen_16">16dp</dimen>
+    <dimen name="dimen_17">17dp</dimen>
+    <dimen name="dimen_18">18dp</dimen>
+    <dimen name="dimen_19">19dp</dimen>
+    <dimen name="dimen_20">20dp</dimen>
+    <dimen name="dimen_24">24dp</dimen>
+    <dimen name="dimen_34">34dp</dimen>
+    <dimen name="dimen_48">48dp</dimen>
+    <dimen name="dimen_310">310dp</dimen>
+    <dimen name="btn_textsize">16sp</dimen>
+    <dimen name="default_textsize">14sp</dimen>
+    <dimen name="textsize_15">15sp</dimen>
+
+    <dimen name="video_record_progressheight">4dp</dimen>
+
+
+    <dimen name="ugc_aspect_width">50dp</dimen>
+    <dimen name="ugc_aspect_divider">18dp</dimen>
+    <dimen name="ugc_progress_cursor">2dp</dimen>
+    <dimen name="ugc_progress_min_pos">2dp</dimen>
+    <dimen name="ugc_progress_divider">1dp</dimen>
+
+    <!--小视频-->
+    <dimen name="aliyun_activity_horizontal_margin">16dp</dimen>
+    <dimen name="aliyun_activity_vertical_margin">16dp</dimen>
+    <dimen name="aliyun_fab_margin">16dp</dimen>
+
+    <dimen name="action_bar_height">22dp</dimen>
+    <dimen name="action_bar_size">7sp</dimen>
+
+    <dimen name="qupai_effect_paster_operation_size">44dp</dimen>
+
+    <dimen name="bottom_editor_tab_padding">8dp</dimen>
+    <dimen name="left_margin_profile_toolbar">9dp</dimen>
+    <dimen name="right_margin_profile_toolbar">15dp</dimen>
+    <dimen name="bottom_editor_tab_height">40dp</dimen>
+    <dimen name="action_bar_profile_title_drawablePadding">4dp</dimen>
+    <dimen name="font_size_20px">10.0sp</dimen>
+    <dimen name="font_size_28px">14.0sp</dimen>
+
+    <dimen name="effect_list_view_size">100dp</dimen>
+    <dimen name="effect_overlay_view_size">160dp</dimen>
+    <dimen name="effect_music_view_size">300dp</dimen>
+    <dimen name="list_item_space">10dp</dimen>
+    <dimen name="effect_image_size">50dp</dimen>
+
+    <!-- 视频进度条 -->
+    <dimen name="video_progress_height">50dp</dimen>
+    <dimen name="video_thumbnail_width">50dp</dimen>
+    <dimen name="repeat_slider_width">26dp</dimen>
+</resources>

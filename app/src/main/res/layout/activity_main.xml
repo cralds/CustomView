@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/ivPausePlay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/icon_dialog_music_pause"
+        />
+
+    <com.sapling.customview.views.MusicProgressView
+        android:id="@+id/musicProgressView"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        app:cover_bar_color="@color/video_maincolor"
+        android:layout_margin="40dp"/>
+
+
+    <!--<com.sapling.customview.views.RectView-->
+        <!--android:layout_width="300dp"-->
+        <!--android:layout_height="200dp" />-->
+
+    <com.sapling.customview.views.RoundImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/weimei"/>
+
+    <com.sapling.customview.views.ControlView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="50dp"/>
+</LinearLayout>
